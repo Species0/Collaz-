@@ -1,14 +1,4 @@
-/**
- * The Collatz Tree v1.0
- *
- * Put this file in a directory named CollatzTree and open it with Processing.
- * ... for futher informtion read the full article at 
- * https://www.algoritmarte.com/the-collatz-tree/
- *
- *
- *  Some PARAMETERS to play with ...
- *
- */
+
 float FIRST_BRANCHLEN = 26;   // the length of the first branch of the tree
 float START_AEVEN =  4;       // angle increase for even branches (degrees) 
 float START_AODD  = -8;       // angle increse for odd branches (degrees)
